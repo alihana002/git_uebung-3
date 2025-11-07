@@ -1,10 +1,6 @@
 def bergrueßen(name):
-    gruß = f"Hallo {name}"
+    gruß = f"Hallo {name} wie gehts dir"
     return gruß 
 
 
-<<<<<<< HEAD
-print(bergrueßen("Alihan"))
-=======
 print(bergrueßen("Miran"))
->>>>>>> feature_x
