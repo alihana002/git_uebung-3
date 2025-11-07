@@ -3,4 +3,4 @@ def bergrueßen(name):
     return gruß 
 
 
-print(bergrueßen("Aylin"))
+print(bergrueßen("Miran"))
